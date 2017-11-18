@@ -1,8 +1,13 @@
-[1] Google, “Protocol Buffers, Google’s data interchange format,” 
-      2017. https://github.com/google/protobuf.
-[2] Z. Zhu, Y. Zhang, H.-S. Ko, P. Martins, J. a. Saraiva, and Z. Hu,
-     “Parsing and reflective printing, bidirectionally”. SLE 2016.
-[3] M. L. Collard, M. J. Decker, and J. I. Maletic, “Lightweight 
+[1] https://atom.io/packages/teletype
+[2] M. L. Collard, M. J. Decker, and J. I. Maletic, “Lightweight 
     transformation and fact extraction with the srcML toolkit, 
     SCAM 2011.
-[4] https://github.com/openssl/openssl/blob/96db902/ssl/d1_both.c
+[3] K. Czarnecki, J. N. Foster, Z. Hu, R. Lämmel, A. Schürr, and J. F. Terwilliger,
+    “Bidirectional transformations: A cross-discipline perspective,” in International
+    Conference on Theory and Practice of Model Transformations. Springer, 2009, pp.
+    260–283.     
+[4] Z. Zhu, Y. Zhang, H.-S. Ko, P. Martins, J. a. Saraiva, and Z. Hu,
+     “Parsing and reflective printing, bidirectionally”. SLE 2016.
+[5] Google, “Protocol Buffers, Google’s data interchange format,” 
+      2017. https://github.com/google/protobuf.
+[6] https://github.com/openssl/openssl/blob/96db902/ssl/d1_both.c
