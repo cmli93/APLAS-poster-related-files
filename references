@@ -1,0 +1,8 @@
+[1] Google, “Protocol Buffers, Google’s data interchange format,” 
+      2017. https://github.com/google/protobuf.
+[2] Z. Zhu, Y. Zhang, H.-S. Ko, P. Martins, J. a. Saraiva, and Z. Hu,
+     “Parsing and reflective printing, bidirectionally”. SLE 2016.
+[3] M. L. Collard, M. J. Decker, and J. I. Maletic, “Lightweight 
+    transformation and fact extraction with the srcML toolkit, 
+    SCAM 2011.
+[4] https://github.com/openssl/openssl/blob/96db902/ssl/d1_both.c
